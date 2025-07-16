@@ -38,8 +38,8 @@ I'm eager to join a cutting-edge data team where I can:
 
 ## 📬 Get in Touch
 
-- **Email:** [nird.daus62@gmail.com](mailto:nird.daus62@gmail.com)
-- **LinkedIn:** [linkedin.com/in/nir-dauster](https://linkedin.com/in/nir-dauster)
+- **Email:** soon
+- **LinkedIn:** soon
 
 ---
 
