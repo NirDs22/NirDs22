@@ -15,18 +15,6 @@ I'm passionate about solving operational challenges with code, analytics, and si
 - **Programming:** Python, SQL
 - **Data Science:** Machine Learning, Statistical Analysis, Optimization
 - **Tools:** Pandas, scikit-learn, Seaborn, TensorFlow, Jupyter, Git
-- **Operations:** Simulation, Process Optimization, Decision Support
-- **Other:** Data Visualization, Dashboarding (Power BI), Simulation (AnyLogic)
-
----
-
-## 💡 What I'm Looking For
-
-I'm eager to join a cutting-edge data team where I can:
-
-- Tackle complex operational problems
-- Build smart solutions with data and code
-- Collaborate with curious, innovative minds
 
 ---
 
