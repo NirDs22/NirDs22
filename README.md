@@ -22,13 +22,15 @@ I thrive on turning data into actionable insights and building tools that drive 
 
 ## 📈 Featured Projects
 
+- I also have projects on [Kaggle](https://www.kaggle.com/nird96)
+- 
 *Coming soon to GitHub!*
 
 ---
 
 ## 📬 Get in Touch
 
-- **[Email](mailto:nird_s1@proton.me)**
+- **[Public Email](mailto:nird_s1@proton.me)**
 
 ---
 
