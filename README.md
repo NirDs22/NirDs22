@@ -26,8 +26,7 @@ I'm passionate about solving operational challenges with code, analytics, and si
 
 ## 📬 Get in Touch
 
-- **Email:** soon
-- **LinkedIn:** soon
+- **[Email](nird_s1@proton.me)**
 
 ---
 
