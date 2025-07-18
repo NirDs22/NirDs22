@@ -6,7 +6,9 @@ Industrial Engineer (B.Sc.) & Data Scientist (M.Sc, Bar Ilan University)
 
 ## 🚀 About Me
 
-I'm passionate about solving operational challenges with code, analytics, and simulation. My expertise spans Python, SQL, machine learning, and optimization. I thrive on turning data into actionable insights and building tools that drive real-world impact.
+I'm passionate about solving challenges with code, analytics, and simulation. 
+My expertise spans Python, SQL, machine learning, and optimization. 
+I thrive on turning data into actionable insights and building tools that drive real-world impact.
 
 ---
 
