@@ -28,7 +28,7 @@ I thrive on turning data into actionable insights and building tools that drive 
 
 ## 📬 Get in Touch
 
-- **[Email](nird_s1@proton.me)**
+- **[Email](mailto:nird_s1@proton.me)**
 
 ---
 
